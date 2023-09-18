@@ -1,0 +1,59 @@
+.BG {
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%); 
+}
+
+.body {
+    text-align: center;
+}
+
+.box {
+    border-radius: 30px;
+    background: #e0b6ec;
+    box-shadow:  20px 20px 60px #ffffff77,
+    -20px -20px 60px #ffffff77;
+    width: 85%;    
+}
+
+.BG h2 {
+    color: #73299e;
+    font-size: 2rem;
+}
+
+.servicios {
+    border-radius: 10px;
+    background: #e0b6ec;
+    width: 75%; 
+}
+
+main{
+    display: grid;
+    place-items: center;
+    padding-top: 3rem;
+}
+
+header {
+    display: grid;
+    place-items: center;
+    padding-top: 2rem;
+}
+
+h1 {
+    color: #73299e;
+    font-size: 4rem;
+    font-family: 'Comfortaa', cursive;
+    font-family: 'Libre Baskerville', serif;
+}
+
+h2 {
+    font-family: 'Comfortaa', cursive;
+    font-family: 'Libre Baskerville', serif;
+    font-size: 1rem;
+}
+
+P {
+    font-family: 'Comfortaa', cursive;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Signika Negative', sans-serif;
+}
